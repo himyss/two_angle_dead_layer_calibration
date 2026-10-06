@@ -1,0 +1,20 @@
+# Build products
+*.o
+*.d
+*.so
+*.pcm
+*Cint.cpp
+*Cint.h
+
+# Analysis outputs
+results/
+output/
+tmp/
+*.root
+*.png
+*.pdf
+*.pptx
+
+# Editor and local files
+*~
+.DS_Store
